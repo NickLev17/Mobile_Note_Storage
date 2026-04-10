@@ -3,8 +3,8 @@ Type=Application
 X-Nemo-Application-Type=silica-qt5
 Icon=ru.template.Note
 Exec=/usr/bin/ru.template.Note
-Name=Template
-Name[ru]=Шаблон
+Name=Notes
+Name[ru]=Заметки
 
 [X-Application]
 Permissions=

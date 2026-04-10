@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.Note
+Exec=/usr/bin/ru.template.Note
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=
+OrganizationName=ru.template
+ApplicationName=Note
+ExecDBus=/usr/bin/ru.template.Note

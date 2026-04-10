@@ -16,7 +16,7 @@ Page {
     header: PageHeader {
 
       objectName: "pageHeader"
-      title: qsTr("Notes")+"("+listModel.count+")"
+      title: qsTr("Заметки")+"("+listModel.count+")"
     }
 
     anchors.fill: parent

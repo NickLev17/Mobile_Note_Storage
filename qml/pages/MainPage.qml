@@ -25,7 +25,7 @@ Page {
     {
       id:listItem
 
-      _backgroundColor:"#effd5f"
+      _backgroundColor:"green"
       contentHeight:content.implicitHeight
 
       Column{
